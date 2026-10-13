@@ -1,4 +1,4 @@
-# Hola, soy [tu nombre] 👋
+# Hola, soy Franco Jose Aguirre 👋
 
 Estudiante de Ingeniería en Sistemas, enfocado en datos, IA y desarrollo de software.
 
